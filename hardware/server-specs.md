@@ -12,7 +12,7 @@
 - Used as the primary storage volume for self-hosted services
 - Enterprise-grade HDD selected for high-capacity media storage and long-duration uptime reliability
 
-## Operating System Drive (256GB)
+## Operating System Drive (256GB SSD)
 - Ubuntu Linux installation drive
 - Hosts Docker containers, configurations, and service data
 
